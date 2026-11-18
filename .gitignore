@@ -1,0 +1,7 @@
+.venv/
+.venv-linux/
+.verify/
+__pycache__/
+out/
+*.lprof
+scalene-profile.html

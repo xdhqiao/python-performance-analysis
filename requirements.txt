@@ -1,0 +1,7 @@
+pyinstrument>=5,<6
+py-spy>=0.4,<1
+line_profiler>=4.1,<6
+scalene>=2,<3
+numpy>=2,<3
+memray>=1.17,<2; sys_platform == "linux" or sys_platform == "darwin"
+pyperf>=2,<3
